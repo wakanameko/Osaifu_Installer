@@ -14,8 +14,12 @@ main = QMainWindow()
 main.setWindowTitle('Osaifu_Installer')
 main.resize(500, 200)
 
-newAct = QAction("")
+newAct = QAction("&New", main, triggerd = exit_tab)
+menuBar = main.menuBar()
+fileMenu = menuBar.addMenu("&Osaifu_Installer")
+fileMenu.addAction(newAct)
 
+main.setMenuBar(menuBar)
 main.show ()
 
 sys.exit(app.exec())

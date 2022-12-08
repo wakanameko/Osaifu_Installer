@@ -1,0 +1,2 @@
+# Osaifu_Installer
+PyQTのテストがてら

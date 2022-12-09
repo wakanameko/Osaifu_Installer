@@ -21,8 +21,6 @@ if ur.release == '95':messagebox.showerror('Attention','このバージョンの
 def exit_tab():
   print('exit')
 
-  
-  
 label = QLabel()
 label.setText('このソフトフェアを使用するにはADBが必要です。')
 

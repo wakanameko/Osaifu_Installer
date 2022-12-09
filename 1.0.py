@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 vertion = "1.0"
 developer = "@wakanameko2"
 
@@ -19,8 +21,13 @@ if ur.release == '95':messagebox.showerror('Attention','このバージョンの
 def exit_tab():
   print('exit')
 
+  
+  
 label = QLabel()
 label.setText('このソフトフェアを使用するにはADBが必要です。')
+
+btn_inst = QPushButton('Install')
+btn_inst.setDefault(True)
 
 app = QApplication(sys.argv)
 main = QMainWindow()

@@ -1,5 +1,5 @@
 # Osaifu_Installer
-PyQTのテストがてら組みました。FxxkDocomoAppsでお財布ケータイ機能が消えた際に使用してください。
+FxxkDocomoAppsでお財布ケータイ機能が消えた際に使用してください。
 
 # How to Use
 ！！ADBのインストールが必要です！！

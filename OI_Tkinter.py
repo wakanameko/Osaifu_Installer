@@ -18,7 +18,6 @@ ur = platform.uname()
 print(ur.system)
 print(ur.release)
 print(ur.version)
-print(ur.processor)
 
 if ur.release == 'xp':messagebox.showerror('Attention','このバージョンのWindowsは対応していません。')
 if ur.release == '2000':messagebox.showerror('Attention','このバージョンのWindowsは対応していません。')

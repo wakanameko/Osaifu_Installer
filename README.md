@@ -15,3 +15,5 @@ FxxkDocomoAppsでお財布ケータイ機能が消えた際に使用してくだ
 |Windows8      |WindowsServer2012R2|                     |
 |Windows7      |WindowsServer2012  |                     |
 |              |WindowsServer2008R2|                     |
+
+![Osaifu_Installer_ForDocomo_Icon](https://user-images.githubusercontent.com/63937252/206831507-2b362a52-9cfe-4679-ac93-72399f73d18d.png)

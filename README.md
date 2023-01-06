@@ -1,4 +1,5 @@
-# Osaifu_Installer
+# Osaifu_Installer(TestVer)
+基本はメインブランチから落として使ってください
 FxxkDocomoAppsでお財布ケータイ機能が消えた際に使用してください。
 
 # How to Use
